@@ -24,8 +24,11 @@ Organized sequentially to reflect the learning path:
   <li><code>01_exploratory_data_analysis.ipynb</code> — Initial exploration and dataset understanding</li>
   <li><code>02_identifying_public_profile.ipynb</code> — Public profile analysis with descriptive statistics</li>
   <li><code>03_central_tendency_analysis.ipynb</code> — Mean, median and mode with distribution interpretation</li>
-  <li><code>04_quantile_analysis.ipynb</code> — Quartiles/percentiles (separatrices) and distribution investigation</li>
-  <li><code>05_dispersion_measures_analysis.ipynb</code> — Variability: variance, standard deviation and spread</li>
+  <li>
+<code>05_dispersion_measures_analysis.ipynb</code> — 
+Quantiles (quartiles & percentiles), IQR and distribution analysis, 
+including variance, standard deviation and overall variability.
+</li>
 </ul>
 <div style="height: 1px; background: #30363d; margin: 18px 0;"></div>
 
